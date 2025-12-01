@@ -6,6 +6,24 @@
 **Estimated Total Duration:** ~8–10 hours
 
 ---
+Certainly! Here's an updated version of the statement that includes **Gemini** alongside **ChatGPT** for proper attribution in your `README.md`:
+
+---
+
+### **AI Appreciation Mini Course Content**
+
+The content for this course was created with the assistance of **ChatGPT** and **Gemini**, advanced AI models developed by OpenAI and Google DeepMind, respectively. These models helped generate the foundational content of the **AI Appreciation Course**, which will be customized and further expanded upon before use.
+
+I credit both **ChatGPT** and **Gemini** for providing initial content generation, including course outlines, lesson plans, and detailed explanations on various AI concepts. While the models have significantly contributed to shaping the core curriculum, additional customizations, real-world examples, and updates have been integrated to better align with the course’s specific educational objectives.
+
+For transparency and proper attribution:
+
+* **ChatGPT (OpenAI)**: Content Generation and Initial Drafts
+* **Gemini (Google DeepMind)**: Content Generation and Section Assistance
+
+If you would like to explore or credit the original AI-generated content further, you can refer to **ChatGPT by OpenAI** at [https://openai.com/chatgpt](https://openai.com/chatgpt) and **Gemini by Google DeepMind** at [https://deepmind.com](https://deepmind.com).
+
+---
 
 ## **📘 Module 0 — Pre-Course Materials (Self-Paced, Approx. 30 mins)**
 
