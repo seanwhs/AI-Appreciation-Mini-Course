@@ -1,4 +1,4 @@
-# **AI for Healthcare — Expanded Instructor Version**
+# **AI for Healthcare**
 
 ## **Goal of This Module**
 

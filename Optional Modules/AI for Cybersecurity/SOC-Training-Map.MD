@@ -1,4 +1,4 @@
-# **SOC AI Training Map — Instructor Visual Concept**
+# **SOC AI Training Map**
 
 **Title:** *AI-Augmented Cybersecurity SOC Training & Exercises*
 

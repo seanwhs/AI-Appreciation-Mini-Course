@@ -1,4 +1,4 @@
-# **AI Appreciation for Senior Citizens — Instructor Version**
+# **AI Appreciation for Senior Citizens**
 
 ## **Goal of This Module**
 

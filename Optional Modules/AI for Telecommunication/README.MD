@@ -1,4 +1,4 @@
-# **AI for Telecommunications — Expanded Instructor Version**
+# **AI for Telecommunications**
 
 ## **Goal of This Module**
 

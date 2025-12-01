@@ -1,4 +1,4 @@
-# **AI for Cybersecurity — Expanded Instructor Version (Enhanced with Agentic AI & Interactive Exercises)**
+# **AI for Cybersecurity**
 
 ## **Goal of This Module**
 

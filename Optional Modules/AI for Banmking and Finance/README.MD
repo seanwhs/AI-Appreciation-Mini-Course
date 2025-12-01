@@ -1,4 +1,4 @@
-# **AI for Banking & Finance — Expanded Instructor Version**
+# **AI for Banking & Finance**
 
 ## **Goal of This Module**
 

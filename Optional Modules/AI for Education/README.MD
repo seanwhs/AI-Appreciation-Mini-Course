@@ -1,4 +1,4 @@
-# **AI for Education — Expanded Instructor Version**
+# **AI for Education**
 
 ## **Goal of This Module**
 

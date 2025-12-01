@@ -1,4 +1,4 @@
-# **AI for Manufacturing — Expanded Instructor Version**
+# **AI for Manufacturing **
 
 ## **Goal of This Module**
 

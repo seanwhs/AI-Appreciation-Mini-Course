@@ -1,4 +1,4 @@
-# **AI for Accounting — Expanded Instructor Version**
+# **AI for Accounting**
 
 ## **Goal of This Module**
 
