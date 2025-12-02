@@ -1,5 +1,7 @@
 **Module: How Scammers Use AI**
 
+Creating a module to teach how scammers use AI is crucial in today’s digital age, where technology is evolving rapidly and online threats are becoming more sophisticated. AI empowers scammers with the ability to mimic real people, generate convincing fake content, and automate their attacks, making it increasingly difficult for individuals to identify scams. By educating people about these emerging risks, we empower them to recognize the signs of AI-driven fraud, make informed decisions, and take proactive steps to protect themselves. In a world where digital interactions are central to everyday life, knowledge of AI-based scams is not just a precaution—it’s a necessity for safeguarding personal security and well-being. That's why I created this module using ChatGPT.
+
 ### Introduction
 
 In today’s digital world, technology offers us many conveniences, but it also brings new risks. One of the most alarming threats is the way scammers are using **Artificial Intelligence (AI)** to target individuals and exploit personal information. This module will explain how scammers use AI, how to spot these scams, and what steps you can take to protect yourself.
