@@ -1,5 +1,9 @@
 # **AI Appreciation for Senior Citizens**
 
+As a senior myself, I am deeply passionate about addressing the digital divide that many older adults face in today’s increasingly connected world. With rapid advancements in technology, particularly in the field of Artificial Intelligence, there is a real risk that seniors may become disconnected from the tools and resources that could improve their lives. This disengagement from the digital world not only limits access to information but can also contribute to social isolation, which, in turn, increases the likelihood of developing depression and other mental health challenges.
+
+In response to these concerns, I harnessed AI tools to create the "AI for Seniors" Module—a program designed to empower older adults to harness the potential of technology and AI in a way that is intuitive, accessible, and relevant to their lives. By bridging the digital divide, I aim to help seniors engage with society in more meaningful ways, enhancing their quality of life, fostering connections, and improving their mental well-being.
+
 ## **Goal of This Module**
 
 This module aims to:
