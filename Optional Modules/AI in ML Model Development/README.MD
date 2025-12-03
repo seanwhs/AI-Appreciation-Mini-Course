@@ -1,6 +1,3 @@
-Here’s the updated version of the **AI in ML Model Development** training module README, incorporating your requested disclaimer and structure:
-
-````markdown
 # AI in ML Model Development - Training Module
 
 ## **Module Objective**
@@ -138,13 +135,6 @@ To explore the training module and provide feedback:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ai-in-ml-model-development.git
-````
-
-2. Explore the training materials in the `docs` folder and review the example notebooks to better understand how the module operates.
-
-3. Review the initial content and methodologies. Please keep in mind that the materials are still in development and may not be fully tested.
-
----
 
 ## **Contributing**
 
