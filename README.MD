@@ -25,6 +25,9 @@ If you would like to explore or credit the original AI-generated content further
 
 ---
 
+**Industry-Specific Labs** may require access to commercial products that are not always available to trainers when course materials are developed using AI tools like ChatGPT or Gemini. In such cases, trainers can collaborate with clients who have the necessary licensing or long-term usage (LTU) agreements to develop, test, and validate these lab exercises during active engagements.**
+
+---
 ## **📘 Module 0 — Pre-Course Materials (Self-Paced, Approx. 30 mins)**
 
 **Overview:**
