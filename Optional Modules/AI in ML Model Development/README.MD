@@ -128,14 +128,6 @@ By the end of this module, students will be able to:
 
 ---
 
-## **Getting Started**
-
-To explore the training module and provide feedback:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ai-in-ml-model-development.git
-
 ## **Contributing**
 
 We welcome contributions, particularly in terms of feedback, research, and testing. As the module is in an experimental phase, all contributions should be viewed as part of an ongoing development process.

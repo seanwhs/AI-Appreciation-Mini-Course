@@ -233,3 +233,25 @@ Additional resources for continued learning, including:
 ---
 
 [📘 AI Appreciation.docx](attachment:108103d4-35e0-4f8b-8420-b31a58ef72b5:_AI_Appreciation.docx)
+
+---
+
+## **Contributing**
+
+We welcome contributions, particularly in terms of feedback, research, and testing. As the module is in an experimental phase, all contributions should be viewed as part of an ongoing development process.
+
+To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Submit a pull request with your proposed changes.
+
+If you encounter any issues or have suggestions, please feel free to open an issue in the repository.
+
+---
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```
